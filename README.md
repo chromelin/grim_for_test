@@ -104,3 +104,5 @@ pdf[0].save('/path/to/image.png', {
 ## License
 
 See [LICENSE](LICENSE) for details.
+
+for test releases
